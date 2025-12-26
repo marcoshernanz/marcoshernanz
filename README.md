@@ -9,12 +9,13 @@ I build scalable products with modern stacks and enjoy solving complex algorithm
 ---
 
 #### 🏆 Competitive Programming & Algorithms
-I regularly compete in algorithmic contests, ranking among the top students in Spain.
+Ranked among the top algorithmic problem solvers globally.
 
+*   **Codeforces:** Max Rating **1800 (Expert)**. (Top ~5% globally).
+*   **Meta Hacker Cup:** 3x Top 2,000 Global Rank (Round 2 Qualifier).
 *   **ICPC SWERC:** 2x Regional Finalist (Southwestern Europe).
-*   **Spanish Olympiad in Informatics (OIE):** National Finalist (Top 20 in Spain).
+*   **Spanish Olympiad in Informatics (OIE):** National Finalist.
 *   **Madrid Regional Olympiad:** 🥈 Silver Medalist.
-*   **Ada Byron Contest:** 2x Bronze Medalist (Madrid), 3x National Finalist.
 
 #### 🚀 Featured Projects
 *   **[CalYo](https://github.com/marcoshernanz/calyo):** AI-powered nutrition tracker with Computer Vision (React Native + Convex).
