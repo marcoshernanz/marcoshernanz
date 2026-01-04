@@ -18,19 +18,21 @@ Ranked among the top algorithmic problem solvers globally.
 *   **Madrid Regional Olympiad:** 🥈 Silver Medalist.
 
 #### 🚀 Featured Projects
+*   **[ChatVault](https://github.com/marcoshernanz/chat-vault):** Local-first semantic search engine. Runs a BERT model in-browser using **Rust + Wasm**.
 *   **[CalYo](https://github.com/marcoshernanz/calyo):** AI-powered nutrition tracker with Computer Vision (React Native + Convex).
-*   **[Cogniba](https://github.com/cogniba/cogniba):** Brain training platform with **2,000 users** (Next.js + Supabase).
+*   **[Cogniba](https://github.com/cogniba/cogniba):** Brain training platform with **2,000+ users** (Next.js + Supabase).
 *   **[MiniLift](https://github.com/marcoshernanz/mini-lift):** Local-first workout tracker powered by MMKV.
 
 #### 🛠 Tech Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/-Wasm-654FF0?style=flat&logo=webassembly&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Convex](https://img.shields.io/badge/-Convex-ED8646?style=flat&logo=convex&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ---
 
-[🌐 cogniba.com](https://cogniba.com) | [Email Me](mailto:TUCORREO@GMAIL.COM) | [LinkedIn](https://www.linkedin.com/in/TU-USUARIO/)
+[🌐 cogniba.com](https://cogniba.com) | [Email Me](mailto:marcos.hernanz.anton@gmail.com) | [LinkedIn](https://www.linkedin.com/in/marcoshernanz/)
