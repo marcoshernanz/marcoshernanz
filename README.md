@@ -18,7 +18,7 @@ Ranked among the top algorithmic problem solvers globally.
 *   **Madrid Regional Olympiad:** 🥈 Silver Medalist.
 
 #### 🚀 Featured Projects
-*   **[ChatVault](https://github.com/marcoshernanz/chat-vault):** Local-first semantic search engine. Runs a BERT model in-browser using **Rust + Wasm**.
+*   **[ChatVault](https://github.com/marcoshernanz/chatvault):** Local-first semantic search engine. Runs a BERT model in-browser using **Rust + Wasm**.
 *   **[CalYo](https://github.com/marcoshernanz/calyo):** AI-powered nutrition tracker with Computer Vision (React Native + Convex).
 *   **[Cogniba](https://github.com/cogniba/cogniba):** Brain training platform with **2,000+ users** (Next.js + Supabase).
 *   **[MiniLift](https://github.com/marcoshernanz/mini-lift):** Local-first workout tracker powered by MMKV.
