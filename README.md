@@ -1,8 +1,6 @@
 ## Marcos Hernanz
 
-Software engineer based in Madrid, building ML systems, developer tools, and performance-sensitive products from first principles.
-
-> Incoming Software Engineer Intern at Vercel in San Francisco for Summer 2026.
+Software Engineer Intern at Vercel (Next.js)
 
 ---
 
