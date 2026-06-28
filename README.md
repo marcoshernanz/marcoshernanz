@@ -44,7 +44,3 @@ Software Engineer Intern at Vercel (Next.js)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![JAX](https://img.shields.io/badge/-JAX-000000?style=flat&logo=jax&logoColor=white)
-
----
-
-[🌐 cogniba.com](https://cogniba.com) | [Email Me](mailto:marcos.hernanz.anton@gmail.com) | [LinkedIn](https://www.linkedin.com/in/marcoshernanz/)
