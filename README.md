@@ -1,46 +1,26 @@
 ## Marcos Hernanz
 
-Software Engineer Intern at Vercel (Next.js)
+Software Engineer Intern on the Next.js team at Vercel in San Francisco.
 
----
+I build coding agents, evaluation infrastructure, ML systems, and performance-sensitive developer tools.
 
-#### What I Work On
+### Selected work
 
-* ML systems: tensor/autograd engines, training loops, language-model experiments
-* Developer tools and infrastructure: Rust backends, typed SDKs, schema-driven systems
-* Product engineering: end-to-end web/mobile products with a bias toward fast iteration and clear UX
+- **Vercel and Next.js:** Built an AI maintainer for Next.js that investigates GitHub and customer reports from triage and reproduction through regression bisection, tests, and fixes. Also built resumable specialist workflows, model routing, cost and evaluation tracing, and evaluated the Eve harness on Terminal-Bench 2.1.
+- **Next.js and Turbopack performance:** Made [browser-driven HMR](https://github.com/vercel/next.js/pull/96179) up to **10% faster** and designed [edit transactions](https://github.com/vercel/next.js/pull/96433) that cut v0 rebuild work roughly **in half** during large agent edits.
+- **[llm-lab](https://github.com/marcoshernanz/llm-lab):** Built language models from bigrams through Transformers. Trained across **8 TPU v5e devices**, processing **39.85B training tokens at 2.63M tokens/s**, and later trained modern variants using RoPE, GQA, SwiGLU, and RMSNorm.
+- **[BareTensor](https://github.com/marcoshernanz/baretensor):** Built a near-zero-dependency tensor and autograd runtime from scratch in **C++**, with strided tensors, broadcasting, neural-network operations, dynamic autograd, and Python bindings.
+- **[ChatVault](https://github.com/marcoshernanz/ChatVault):** Built private semantic search for WhatsApp that runs locally in the browser using quantized MiniLM, **Rust**, and **WebAssembly**. Finding and reproducing a Turbopack issue while building it led directly to my off-cycle Vercel internship.
+- **[Cogniba](https://github.com/cogniba/cogniba):** Designed, built, and launched a brain-training product with **Next.js** and **Supabase**, growing it to more than **2,000 registered users**.
 
-#### Current Highlights
+### Competitive programming
 
-* Built a browser-side semantic search engine for WhatsApp using **Rust + Wasm + Next.js**, with local embeddings and hybrid retrieval.
-* Building **BareTensor**, a near-zero-dependency tensor/autograd library with a **C++** backend and Python bindings.
-* Earned an off-cycle **Vercel** internship after isolating a **TurboPack + Web Workers + Wasm** issue and discussing the reproduction directly with Tim Neutkens.
+- **Codeforces Expert** with a peak rating of 1800
+- 2x **ICPC SWERC** participant
+- **Olympiad in Informatics**, 2nd in Madrid and 16th in Spain
+- 3x Meta Hacker Cup Top 2,000
+- 2x Ada Byron Spanish national finalist
 
-#### Competitive Programming
+### Contact
 
-*   **Codeforces:** Max Rating **1800 (Expert)**. (Top ~5% globally).
-*   **Meta Hacker Cup:** 3x Top 2,000 Global Rank (Round 2 Qualifier).
-*   **ICPC SWERC:** 2x Regional Finalist (Southwestern Europe).
-*   **Ada Byron:** 2x Spanish National Finalist.
-*   **Spanish Olympiad in Informatics (OIE):** National Finalist.
-*   **Madrid Regional Olympiad:** Silver Medalist.
-
-#### Featured Projects
-*   **[BareTensor](https://github.com/marcoshernanz/baretensor):** Near-zero-dependency tensor/autograd library with a **C++** backend, Python bindings via **nanobind**, a small `bt.nn` stack, and end-to-end language-model experiments from MLPs to small decoder-only Transformers.
-*   **[ChatVault](https://github.com/marcoshernanz/ChatVault):** Semantic search for WhatsApp that runs a quantized MiniLM/BERT model fully in-browser using **Rust + Wasm**.
-*   **[Vexi](https://github.com/marcoshernanz/vexi):** Type-safe RAG database with a TypeScript SDK/CLI, schema-driven workflows, and a **Rust** API over LanceDB.
-*   **[rust-mlp](https://github.com/marcoshernanz/rust-mlp):** From-scratch MLP library in Rust with deterministic training and allocation-free inference.
-*   **[Cogniba](https://github.com/cogniba/cogniba):** Brain-training product built with **Next.js** and **Supabase**, used by 2,000+ registered users.
-
-#### Tech Stack
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/-Wasm-654FF0?style=flat&logo=webassembly&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Convex](https://img.shields.io/badge/-Convex-ED8646?style=flat&logo=convex&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![JAX](https://img.shields.io/badge/-JAX-000000?style=flat&logo=jax&logoColor=white)
+[X](https://x.com/MarcosHernanz) | [LinkedIn](https://www.linkedin.com/in/marcoshernanz/) | [Email](mailto:marcos.hernanz.anton@gmail.com)
