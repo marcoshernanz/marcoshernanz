@@ -17,6 +17,7 @@ Most recently a Software Engineer Intern on the Next.js team at Vercel, where I 
 - Owned the product and agent stack behind it, including resumable specialist workflows, model routing, cost and evaluation tracing, and an **Eve** harness benchmark on **Terminal-Bench 2.1**.
 - Shipped **Next.js Agent Feedback**, a human-in-the-loop path where coding agents draft deidentified reports on the framework friction they hit and the developer edits, sends, or discards each one before anything is submitted.
 - Merged **22 Next.js and Turbopack PRs** plus upstream **SWC** and **notify-rs** fixes, including a [**42×** HMR invalidation speedup](https://github.com/vercel/next.js/pull/96137), a [React Compiler precheck](https://github.com/vercel/next.js/pull/96820) that cut compiler pipeline time **19.64%** on real v0 modules, and a [worker-lifecycle fix](https://github.com/vercel/next.js/pull/96592) that eliminated **100%** of measured worker leak growth.
+- Found a **cross-tenant data leak** in Vercel Sandbox's Linux device-mapper storage layer, credited by name in [Vercel's write-up of the $1M Sandbox challenge](https://vercel.com/blog/findings-from-the-1-million-dollar-vercel-sandbox-challenge).
 
 ### Projects
 
