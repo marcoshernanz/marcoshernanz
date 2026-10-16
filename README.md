@@ -8,7 +8,7 @@ Most recently a Software Engineer Intern on the Next.js team at Vercel, where I 
 
 - **Bachelor's thesis** at UAM, advised by Daniel Hernández-Lobato: how Muon versus AdamW shapes routing in DeepSeek-style mixture-of-experts language models. I built the PyTorch training stack (grouped-matmul experts, batched Muon, `torch.compile`, bitwise-exact resume) and ran **145 pre-registered runs** at 55M and 108M active parameters. Muon makes the load balancer work harder, and the backbone's optimizer, not the router's, causes it through a shared direction in the router's inputs.
 <!-- TODO: add the arXiv link once the paper is announced. -->
-- **[Multi-Head mHC: No Gain at Equal Parameters](https://github.com/marcoshernanz/multi-head-mhc)** (arXiv preprint, October 2026). A multi-head variant of manifold-constrained hyper-connections (mHC), tested in **629 TPU training runs** of 27M- and 112M-parameter GPT models on FineWeb-Edu against parameter-matched controls: **no gain at equal parameters**.
+- **[Multi-Head mHC: No Gain at Equal Parameters](https://hernanz.io/multi-head-mhc.pdf)** (preprint, October 2026; [code](https://github.com/marcoshernanz/multi-head-mhc)). A multi-head variant of manifold-constrained hyper-connections (mHC), tested in **629 TPU training runs** of 27M- and 112M-parameter GPT models on FineWeb-Edu against parameter-matched controls: **no gain at equal parameters**.
 
 ### Vercel, Next.js team
 
