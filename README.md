@@ -7,8 +7,9 @@ Most recently a Software Engineer Intern on the Next.js team at Vercel, where I 
 ### Research
 
 - **Bachelor's thesis** at UAM, advised by Daniel Hernández-Lobato: how Muon versus AdamW shapes routing in DeepSeek-style mixture-of-experts language models. I built the PyTorch training stack (grouped-matmul experts, batched Muon, `torch.compile`, bitwise-exact resume) and ran **145 pre-registered runs** at 55M and 108M active parameters. Muon makes the load balancer work harder, and the backbone's optimizer, not the router's, causes it through a shared direction in the router's inputs.
-<!-- TODO: add the arXiv link once the paper is announced. -->
-- **[Multi-Head mHC: No Gain at Equal Parameters](https://www.alphaxiv.org/abs/2610.multi-head-mhc)** (preprint, October 2026; [code](https://github.com/marcoshernanz/multi-head-mhc)). A multi-head variant of manifold-constrained hyper-connections (mHC), tested in **629 TPU training runs** of 27M- and 112M-parameter GPT models on FineWeb-Edu against parameter-matched controls: **no gain at equal parameters**.
+<!-- TODO: add the arXiv links once the papers are announced. Papers link only the paper, not the code. -->
+- **[Multi-Head mHC: No Gain at Equal Parameters](https://www.alphaxiv.org/abs/2610.multi-head-mhc)** (preprint, October 2026). A multi-head variant of manifold-constrained hyper-connections (mHC), tested in **629 TPU training runs** of 27M- and 112M-parameter GPT models on FineWeb-Edu against parameter-matched controls: **no gain at equal parameters**.
+- **[The Optimal Rate Constant of Heavy-Ball Momentum on Smooth Strongly Convex Functions](https://www.alphaxiv.org/abs/2610.heavy-ball-optimal-rate)** (preprint, October 2026). Heavy-ball momentum accelerates gradient descent on quadratics, but no constant tuning does so on smooth strongly convex functions. The paper finds how much faster it can be made there: a lower bound for every tuning, an explicit tuning that matches it, and a Lyapunov certificate checked in exact arithmetic. Optimally tuned, heavy-ball is **asymptotically four times faster than gradient descent**.
 
 ### Vercel, Next.js team
 
